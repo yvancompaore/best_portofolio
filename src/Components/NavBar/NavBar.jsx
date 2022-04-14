@@ -48,7 +48,7 @@ const NavBar = () => {
     <Wrapper>
       <Left>
         <Name>Yvan</Name>
-        <span>Okkkk</span>
+        <span>toggle</span>
       </Left>
       <Right>
         <MenuList>
@@ -60,7 +60,7 @@ const NavBar = () => {
             <MenuLink>Retour client </MenuLink>
           </MenuName>
         </MenuList>
-        <Contactbutton className="button">Me contacter</Contactbutton>
+        <Contactbutton className="button">Contact</Contactbutton>
       </Right>
     </Wrapper>
   );
